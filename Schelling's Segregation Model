@@ -1,0 +1,7 @@
+class agent
+  pass
+
+ag = agent()
+ag.type = randint(2)
+ag.x = random()
+ag.y = random()
