@@ -11,3 +11,4 @@ In this study, a theoretical model with 3 nonlinear equations was constructed to
 The empirical part was to compare the two effects and their comprehensive force to labor market.
 
 Two methods were used to solve the nonlinear system: direct method using 'fsolve' in Python and Newton Raphson method. 
+
